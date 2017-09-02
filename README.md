@@ -5,4 +5,4 @@ Keylogger that logs keyboard inputs and sends it to email every 24 hour
 
 !! Make sure to run ** keylogger.py ** first and then ** emailsending.py **
 
-!! Files have .py extension so if you want to run scrip background you can change it to ** .pyw **
+!! Files have .py extension so if you want to run script in background you can change it to ** .pyw **
